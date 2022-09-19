@@ -1,16 +1,8 @@
-# sobre mim
-
-## meu pai sumiu
-
-### me abandonou quando eu nasci
-
-#### nem para pagar pensão 
-
-- 👋 Hi, I’m @rafnki
-- 👀 I’m interested in games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Ola, eu sou **Rafael**
+- 👀 Meu email de contato [email](rafael.stremel20@gmail.com)
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
 rafnki/rafnki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
